@@ -12,14 +12,14 @@
 <body>
 
     <!--empieza mi barra de navegacion-->
-    <nav class="navbar bg-dark navbar-dark navbar-expand-lg">
+    <nav class="navbar bg-success navbar-dark navbar-expand-lg">
         <a href="#" class="navbar-brand">RealState <span>GDL</span></a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#menuPrincipal" arial-controls="menuPrincipal" arial-expanded="false" arial-label="Mostrar Navegacion">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <!--colocamos el menu-->
-        
+
         <div class="collapse navbar-collapse" id="menuPrincipal">
             <ul class="navbar-nav w-100 justify-content-end">
                 <li class="nav-item">
@@ -28,8 +28,11 @@
                 <li class="nav-item">
                     <a href="#" class="nav-link">Nosotros</a>
                 </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link">Anuncios</a>
+                <li class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" id="anuncionsDropdown" data-toggle="dropdown" aria-haspopup="true" arial-expanded="false">Anuncios</a>
+                    <div class="dropdown-menu" aria-labelledby="anunciosDropdown">
+                        <a href="#" class="dropdown-item">Casa 1</a>
+                    </div>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">Contactanos</a>
