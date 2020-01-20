@@ -1,7 +1,26 @@
+/*
+Las variables css son entidades definidas por autores css que contienen valores especificos
+*/
 :root {
     --primario: #71b100;
     --secundario: #e08709;
 }
 body {
     font-family: 'Lato', sans-serif;
+}
+.bg-success{
+    background-color: var(--primario)!important; /* important da prioridad, especifidad */
+}
+/*
+@media especifica atributos especificos deacuerdo al tamano
+*/
+@media (min-width: 768px){
+    .barra.bg-success{
+        background-color: transparent!important;
+    }
+    .header .barra{
+        position: absolute;
+        z-index: 100; /* z-index se utiliza para agregar capas; */
+        width: 100%;
+    }
 }
