@@ -1,0 +1,35 @@
+commit 8923add5df7c38525981c5edeaa258187e2bb7ea
+Author: Billy Cantillo <billycantillo@gmail.com>
+Date:   Mon Jan 20 19:28:48 2020 -0400
+
+    agregamos una imagen a la carpeta imagen
+
+commit 79c135473216f89e729adc4238bcde094a1733ec
+Author: Billy Cantillo <billycantillo@gmail.com>
+Date:   Mon Jan 20 18:57:31 2020 -0400
+
+    Agregamos el Dropdown en Anuncios
+
+commit bf1e0bb7700f656478fd5dcb4f72a2203d574037
+Author: Billy Cantillo <billycantillo@gmail.com>
+Date:   Mon Jan 20 18:36:33 2020 -0400
+
+    Se agrega barra de navegacion y el menu
+
+commit 402105fd566e5cc329b8752321c7e506b82fcf2f
+Author: Billy Cantillo <billycantillo@gmail.com>
+Date:   Mon Jan 20 17:55:34 2020 -0400
+
+    colocamos caption a las imagenes del carousel y practicamos como cambiar lo que colocamos en el ultimo commit
+
+commit 92213960d08d794f4a1623955624e3c9a91c0ef3
+Author: Billy Cantillo <billycantillo@gmail.com>
+Date:   Mon Jan 20 17:04:31 2020 -0400
+
+    Colocamos el carrusel y las flechas de desplazamiento
+
+commit 7fbff94f29eba027c61b0b93bae5398b15102b94
+Author: Billy Cantillo <billycantillo@gmail.com>
+Date:   Mon Jan 20 16:54:53 2020 -0400
+
+    Inicio del proyecto
